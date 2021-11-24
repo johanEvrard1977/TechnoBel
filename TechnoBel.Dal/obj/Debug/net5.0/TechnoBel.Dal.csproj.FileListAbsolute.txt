@@ -1,0 +1,15 @@
+C:\Sources\TechnoBel\TechnoBel.Dal\bin\Debug\net5.0\TechnoBel.Dal.deps.json
+C:\Sources\TechnoBel\TechnoBel.Dal\bin\Debug\net5.0\TechnoBel.Dal.runtimeconfig.json
+C:\Sources\TechnoBel\TechnoBel.Dal\bin\Debug\net5.0\TechnoBel.Dal.runtimeconfig.dev.json
+C:\Sources\TechnoBel\TechnoBel.Dal\bin\Debug\net5.0\TechnoBel.Dal.dll
+C:\Sources\TechnoBel\TechnoBel.Dal\bin\Debug\net5.0\ref\TechnoBel.Dal.dll
+C:\Sources\TechnoBel\TechnoBel.Dal\bin\Debug\net5.0\TechnoBel.Dal.pdb
+C:\Sources\TechnoBel\TechnoBel.Dal\obj\Debug\net5.0\TechnoBel.Dal.csprojAssemblyReference.cache
+C:\Sources\TechnoBel\TechnoBel.Dal\obj\Debug\net5.0\TechnoBel.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\TechnoBel\TechnoBel.Dal\obj\Debug\net5.0\TechnoBel.Dal.AssemblyInfoInputs.cache
+C:\Sources\TechnoBel\TechnoBel.Dal\obj\Debug\net5.0\TechnoBel.Dal.AssemblyInfo.cs
+C:\Sources\TechnoBel\TechnoBel.Dal\obj\Debug\net5.0\TechnoBel.Dal.csproj.CoreCompileInputs.cache
+C:\Sources\TechnoBel\TechnoBel.Dal\obj\Debug\net5.0\TechnoBel.Dal.dll
+C:\Sources\TechnoBel\TechnoBel.Dal\obj\Debug\net5.0\ref\TechnoBel.Dal.dll
+C:\Sources\TechnoBel\TechnoBel.Dal\obj\Debug\net5.0\TechnoBel.Dal.pdb
+C:\Sources\TechnoBel\TechnoBel.Dal\obj\Debug\net5.0\TechnoBel.Dal.genruntimeconfig.cache

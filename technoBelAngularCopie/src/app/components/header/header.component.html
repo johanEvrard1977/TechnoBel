@@ -1,0 +1,16 @@
+<!-- if conneted -->
+<ul *ngIf="user">
+    <li>
+        <a routerLink="profile">{{ user.UserName }}</a>
+        <nb-icon icon="power" (click)="onSignOut()"></nb-icon>
+    </li>
+</ul>
+
+<!-- if disconneted -->
+<ul *ngIf="!user">
+    <li>
+        <a routerLink="auth/login">Login</a>
+        <a routerLink="auth/register">Register</a>
+    </li>
+</ul>
+
