@@ -1968,11 +1968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sources\\TechnoBel\\TechnoBel.Core\\TechnoBel.Core.csproj",
+      "projectUniqueName": "C:\\Users\\johan\\Documents\\GitHub\\TechnoBel\\TechnoBel.Core\\TechnoBel.Core.csproj",
       "projectName": "TechnoBel.Core",
-      "projectPath": "C:\\Sources\\TechnoBel\\TechnoBel.Core\\TechnoBel.Core.csproj",
+      "projectPath": "C:\\Users\\johan\\Documents\\GitHub\\TechnoBel\\TechnoBel.Core\\TechnoBel.Core.csproj",
       "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
-      "outputPath": "C:\\Sources\\TechnoBel\\TechnoBel.Core\\obj\\",
+      "outputPath": "C:\\Users\\johan\\Documents\\GitHub\\TechnoBel\\TechnoBel.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1996,8 +1996,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Sources\\TechnoBel\\TechnoBel.Dal\\TechnoBel.Dal.csproj": {
-              "projectPath": "C:\\Sources\\TechnoBel\\TechnoBel.Dal\\TechnoBel.Dal.csproj"
+            "C:\\Users\\johan\\Documents\\GitHub\\TechnoBel\\TechnoBel.Dal\\TechnoBel.Dal.csproj": {
+              "projectPath": "C:\\Users\\johan\\Documents\\GitHub\\TechnoBel\\TechnoBel.Dal\\TechnoBel.Dal.csproj"
             }
           }
         }
@@ -2038,7 +2038,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.209\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
       }
     }
   }
